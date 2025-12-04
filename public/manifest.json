@@ -1,0 +1,21 @@
+{
+  "name": "Lydia Portfolio",
+  "short_name": "Lydia",
+  "description": "A professional portfolio showcasing Lydia's experience as a React, React Native, and Full-Stack Developer.",
+  "icons": [
+    {
+      "src": "/lydia_portfolio/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/lydia_portfolio/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "theme_color": "transparent",
+  "background_color": "transparent",
+  "display": "standalone"
+}
